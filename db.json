@@ -1,14 +1,14 @@
 {
-    "personajes" : [
+    "characters" : [
             {
               "id" :1,
               "name" : "Asta",
-              "age" :"16",
-              "birthdate" : "3 de octubre",
+              "age" :"17",
+              "birthdate" : "4 de octubre",
               "gender": "Male",
               "img" :  "https://i.pinimg.com/564x/93/9a/9d/939a9d9f1e0375cbb14adeb1c7cbd132.jpg",
               "gif" :"https://i.pinimg.com/originals/56/22/23/5622238b635ce9b23ff7254130653b05.gif",
-              "description" : "Protagonista principal de la serie. Es el único hijo de Grisha y Carla Jaeger. A su vez, es el medio hermano menor de Zeke Jaeger. Es portador del Titán de Ataque, el Titán Fundador y el Titán Martillo de Guerra. Eren es oriundo del Distrito Shiganshina.",
+              "description" : "Asta Asuta is an orphan raised under the care of a church in Hage after his mother abandons him on the church's doorstep. After turning 15 years old, Asta receives a five-leaf clover grimoire with an Anti Magic devil inside. He joins the Clover Kingdom's Black Bull squad of the Magic Knights and becomes a 3rd Class Junior Magic Knight and temporarily a Royal Knight.",
               "squad": "Black Bull",
               "video":"https://www.youtube.com/watch?v=KZymGfn-83U"
             },
@@ -16,8 +16,8 @@
             {
               "id" :2,
               "name" : "Yuno",
-              "age" :"16",
-              "birthdate" : "10 de febrero",
+              "age" :"17",
+              "birthdate" : "4 de febrero",
               "gender": "Male",
               "img" :  "https://i.pinimg.com/564x/f8/f7/d6/f8f7d6ffd22e523d7effb0e848157688.jpg",
               "gif" :"https://i.pinimg.com/originals/96/ae/f7/96aef778842e904f91f047dad615003c.gif",
@@ -57,25 +57,26 @@
              
               "id" :5,
               "name" : "Lumiere",
-              "age" :"18",
-              "birthdate" : "22 de marzo",
+              "age" :"25",
+              "birthdate" : "12 de Febrero",
               "gender": "Male",
               "img" :  "https://i.pinimg.com/564x/e9/ce/45/e9ce45717b89ee8022eb46de6c51f0ff.jpg",
              " gif" :"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2F8b62c1f0dfa3c0d2eb94079616a577c3%2Ftumblr_pvx0xn4EKW1wfazcjo1_500.gif&f=1&nofb=1",
               "squad" : "Azure Deer",
+              "description": "He's a human royal and the first Magic Emperor of the Clover Kingdom's Magic Knight Squads.",
               "video": "https://www.youtube.com/watch?v=qS8pgIZ5kVk"
             },
             
             {
              
               "id" :6,
-              "name" : "Nero (Secre)",
+              "name" : "Nero (Secre Swallowtail)",
               "age" :"17",
-              "birthdate" : "30 de diciembre",
+              "birthdate" : "June 18th",
               "gender": "Feminine",
               "img" :  "https://i.pinimg.com/564x/d1/07/3e/d1073e28fdcd1c6972fe9bd11896b40f.jpg",
               "gif" :"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2F44283ae1aa42cd77da6067d3806171b8%2Ffa67e74bd65c8e8f-9a%2Fs540x810%2Fa15972f9f9bde6fdd0d5f9d15ce07a91076adefd.gif&f=1&nofb=1",
-              "description" : "Él poseía la habilidad de transformarse en un titán y servía a una unidad de soldados de Marley conocidos como guerreros. Bertolt era portador del Titán Colosal, un gigante de 60 metros de altura, capaz de asomarse por encima de los muros sin esfuerzo.",
+              "description" : "She's a noblewoman and the former servant of Prince Lumiere Silvamillion Clover, the first Magic Emperor. She is transformed into an anti-bird named Nero after sealing Lumiere into a statue.",
               "squad" : "Black Bull",
               "video" : "https://www.youtube.com/watch?v=3WOKXwNQFXo"
             },
@@ -84,11 +85,12 @@
              
               "id" :7,
               "name" : "Zora Ideale",
-              "age" :"20",
-              "birthdate" : "26 de julio",
+              "age" :"25",
+              "birthdate" : "December 19th",
               "gender": "Male",
               "img" :  "https://i.pinimg.com/564x/9e/f5/d3/9ef5d3244fc43b904c44c8c5778aa249.jpg",
               "gif" :"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F218a860138738aad5160637bd7b23ef2%2Ftenor.gif&f=1&nofb=1",
+              "description": "He's a 1st class Junior Magic Knight of the Clover Kingdom's Black Bull and Royal Knights squads, and the son of Zara Ideale, the first peasant Magic Knight.",
               "squad" : "Black Bull",
               "video" : "https://www.youtube.com/watch?v=h59suKoTRkg"
             },
@@ -98,13 +100,13 @@
              {
              
               "id" :8,
-              "name" : "Marie",
-              "age" :"8",
-              "birthdate" : "02 de mayo",
+              "name" : "Marie Adlai",
+              "age" :"10",
+              "birthdate" : "December 21st",
               "gender": "Feminine",
               "img" :  "https://i.pinimg.com/564x/e3/24/2c/e3242c3c15d4842c1ede10e0625845dd.jpg",
               "gif" :"https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpa1.narvii.com%2F7416%2Ff424b9591f9aaaedb72967a76b40cc555adc492dr1-620-346_00.gif&f=1&nofb=1",
-              "description" : "Es miembro del Cuerpo de Exploración, originario de Ragako, Connie se enroló en el ejército con el objetivo de hacer que su familia y su pueblo se enorgullecieran de él. Connie decidió unirse al Cuerpo de Exploración, a pesar del gran miedo que sentía por los titanes. ",
+              "description" : "She's the younger sister of Gauche Adlai and lives in Nairn under the care of Theresa Rapual.",
               "squad" : "She's just a little girl",
               "video": "https://www.youtube.com/watch?v=jEY1d2LYKF0"
             },
