@@ -1,0 +1,130 @@
+{
+    "personajes" : [
+            {
+              "id" :1,
+              "name" : "Asta",
+              "age" :"16",
+              "birthdate" : "3 de octubre",
+              "gender": "Male",
+              "img" :  "https://i.pinimg.com/564x/93/9a/9d/939a9d9f1e0375cbb14adeb1c7cbd132.jpg",
+              "gif" :"https://i.pinimg.com/originals/56/22/23/5622238b635ce9b23ff7254130653b05.gif",
+              "description" : "Protagonista principal de la serie. Es el único hijo de Grisha y Carla Jaeger. A su vez, es el medio hermano menor de Zeke Jaeger. Es portador del Titán de Ataque, el Titán Fundador y el Titán Martillo de Guerra. Eren es oriundo del Distrito Shiganshina.",
+              "squad": "Black Bull",
+              "video":"https://www.youtube.com/watch?v=KZymGfn-83U"
+            },
+            
+            {
+              "id" :2,
+              "name" : "Yuno",
+              "age" :"16",
+              "birthdate" : "10 de febrero",
+              "gender": "Male",
+              "img" :  "https://i.pinimg.com/564x/f8/f7/d6/f8f7d6ffd22e523d7effb0e848157688.jpg",
+              "gif" :"https://i.pinimg.com/originals/96/ae/f7/96aef778842e904f91f047dad615003c.gif",
+              "description" : "Es la hermana adoptiva de Eren Jaeger. Cambió su personalidad tras el asesinato de sus padres, ya que cuando se revela su pasado se ve que Mikasa, antes de la tragedia, solía ser una niña alegre. Sin embargo, lo da todo por las personas que le importan.",
+              "definition" : "Su ejecución es ejemplar em todas las áreas, realmente es una genio con importancia histórica sin precedentes.",
+              "video":"https://www.youtube.com/watch?v=vYsSPUOZmbs"
+            },
+            
+            {
+              "id" :3,
+              "name" : "Luck Voltia",
+              "age" :"18",
+              "birthdate" : "October 11th",
+              "gender": "Male",
+              "img" :  "https://i.pinimg.com/564x/3d/63/6a/3d636aa9243f3964aaa06bda53d400d6.jpg",
+              "gif" :"https://i.pinimg.com/originals/f1/e8/cb/f1e8cb07a925a596e000894a0e2cee6f.gif",
+              "description" : "Luck is a young man of short stature with blue eyes and medium-length messy blond hair. His hair is long enough to cover both his ears and forehead.",
+              "squad" : "Black Bull",
+              "video": "https://www.youtube.com/watch?v=4vBT3FRv6qo"
+            },
+            
+            {
+            
+              "id" :4,
+              "name" : "Rill Boismortier",
+              "age" :"18",
+              "birthdate" : "01 de agosto",
+              "gender": "Male",
+              "img" :  "https://i.pinimg.com/564x/c2/91/c1/c291c11f54e942b3592f480c6707b9f9.jpg",
+              "gif" :"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2F637e88633228fa25a5c1c43015a5661b%2Ftumblr_pozfdpk0U91v6bs4yo1_r1_400.gif&f=1&nofb=1",
+              "description" : "Rill is a young man with spiky, aqua-colored hair in a messy mound atop his head.",
+              "squad" : "Azure Deer",
+              "video": "https://www.youtube.com/watch?v=VDoMUoDDJhg"
+            },
+            
+            {
+             
+              "id" :5,
+              "name" : "Lumiere",
+              "age" :"18",
+              "birthdate" : "22 de marzo",
+              "gender": "Male",
+              "img" :  "https://i.pinimg.com/564x/e9/ce/45/e9ce45717b89ee8022eb46de6c51f0ff.jpg",
+             " gif" :"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2F8b62c1f0dfa3c0d2eb94079616a577c3%2Ftumblr_pvx0xn4EKW1wfazcjo1_500.gif&f=1&nofb=1",
+              "squad" : "Azure Deer",
+              "video": "https://www.youtube.com/watch?v=qS8pgIZ5kVk"
+            },
+            
+            {
+             
+              "id" :6,
+              "name" : "Nero (Secre)",
+              "age" :"17",
+              "birthdate" : "30 de diciembre",
+              "gender": "Feminine",
+              "img" :  "https://i.pinimg.com/564x/d1/07/3e/d1073e28fdcd1c6972fe9bd11896b40f.jpg",
+              "gif" :"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2F44283ae1aa42cd77da6067d3806171b8%2Ffa67e74bd65c8e8f-9a%2Fs540x810%2Fa15972f9f9bde6fdd0d5f9d15ce07a91076adefd.gif&f=1&nofb=1",
+              "description" : "Él poseía la habilidad de transformarse en un titán y servía a una unidad de soldados de Marley conocidos como guerreros. Bertolt era portador del Titán Colosal, un gigante de 60 metros de altura, capaz de asomarse por encima de los muros sin esfuerzo.",
+              "squad" : "Black Bull",
+              "video" : "https://www.youtube.com/watch?v=3WOKXwNQFXo"
+            },
+            
+             {
+             
+              "id" :7,
+              "name" : "Zora Ideale",
+              "age" :"20",
+              "birthdate" : "26 de julio",
+              "gender": "Male",
+              "img" :  "https://i.pinimg.com/564x/9e/f5/d3/9ef5d3244fc43b904c44c8c5778aa249.jpg",
+              "gif" :"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F218a860138738aad5160637bd7b23ef2%2Ftenor.gif&f=1&nofb=1",
+              "squad" : "Black Bull",
+              "video" : "https://www.youtube.com/watch?v=h59suKoTRkg"
+            },
+            
+            
+            
+             {
+             
+              "id" :8,
+              "name" : "Marie",
+              "age" :"8",
+              "birthdate" : "02 de mayo",
+              "gender": "Feminine",
+              "img" :  "https://i.pinimg.com/564x/e3/24/2c/e3242c3c15d4842c1ede10e0625845dd.jpg",
+              "gif" :"https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpa1.narvii.com%2F7416%2Ff424b9591f9aaaedb72967a76b40cc555adc492dr1-620-346_00.gif&f=1&nofb=1",
+              "description" : "Es miembro del Cuerpo de Exploración, originario de Ragako, Connie se enroló en el ejército con el objetivo de hacer que su familia y su pueblo se enorgullecieran de él. Connie decidió unirse al Cuerpo de Exploración, a pesar del gran miedo que sentía por los titanes. ",
+              "squad" : "She's just a little girl",
+              "video": "https://www.youtube.com/watch?v=jEY1d2LYKF0"
+            },
+            
+             {
+             
+              "id" :9,
+              "name" : "Julius Novachrono",
+              "age" :"35",
+              "birthdate" : "25 de diciembre",
+              "gender": "Masculino",
+              "img" :  "https://i.pinimg.com/564x/20/42/dd/2042dd7998b256c251858b88ac2d6561.jpg",
+              "gif" :"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fb28d9fcd47eaae2fad8cda24c4a33548%2Ftenor.gif%3Fitemid%3D14308462&f=1&nofb=1",
+              "description" : "El Rey Mago es una persona a la que le gusta escaparse del palacio adoptando la forma de simples ciudadanos en busca de nuevos tipos de magia y curiosidades por el reino. Como se mencionó anteriormente, puede llegar a ser una persona muy curiosa en el tema de la magia, se emociona mucho cuando encuentra una magia que el no a visto antes dándole un toque algo infantil , como se dio en el caso de Yuno, Asta y Yami. ",
+              "squad" : "Azure Deer",
+              "video": "https://www.youtube.com/watch?v=KvCUCkQ4tUs"
+            }
+        
+    ]
+    
+    
+
+}
